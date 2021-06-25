@@ -4,5 +4,4 @@ creator Hrithik MALLICK
 
 # HOSTED ON 
 ```
-https://todolist-hrithikmallick.herokuapp.com/
-```
+https://hrithikmallick.github.io/New-TodoList-Reactjs/```
